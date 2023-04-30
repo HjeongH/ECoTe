@@ -1,5 +1,5 @@
 # ch4. 구현 #
-'''
+
 #1-1. 상하좌우 ---------------------------------------------
 ## 직접짜기
 n = int(input())
@@ -68,7 +68,7 @@ for ck in steps:
     count += 1
 
 print(count)
-'''
+
 
 #3 게임 개발
 ## 예시 답안
@@ -114,5 +114,5 @@ while True:
         else :
             break
 
-    turn_time = 0 #왜 필요하지?
+    turn_time = 0
 print(count)
